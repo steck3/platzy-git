@@ -1,0 +1,5 @@
+/workspaces/platzy-git/proy01/obj/Debug/net8.0/proy01.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/platzy-git/proy01/obj/Debug/net8.0/proy01.AssemblyInfoInputs.cache
+/workspaces/platzy-git/proy01/obj/Debug/net8.0/proy01.AssemblyInfo.cs
+/workspaces/platzy-git/proy01/obj/Debug/net8.0/proy01.csproj.CoreCompileInputs.cache
+/workspaces/platzy-git/proy01/obj/Debug/net8.0/proy01.sourcelink.json
